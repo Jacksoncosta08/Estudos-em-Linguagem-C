@@ -1,8 +1,8 @@
-// Sintexe:
+/*Sintexe:
 
-// printf("texto", <v1>, <v2>, ..., <vN>);
+printf("texto", <v1>, <v2>, ..., <vN>);
 
-/*Especificadores de formato: printf()
+Especificadores de formato: printf()
 
 %d - Numeros inteiros em base decimal
 %x - Numeros inteiros em base hexadecimal
@@ -12,7 +12,7 @@
 %s - Sequencia de caracteres alfanumericos (texto)
 %.<num> - Especifica quantos digitos serao impressos apos a virgula
 
-// Sequencias de escape: printf()
+Sequencias de escape: printf()
 
 (\a) Toca um bipe, alarme sonoro padr�o do sistema
 (\b) Backspace
